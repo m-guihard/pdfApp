@@ -1,21 +1,21 @@
 # pdfApp
 A small app with basic functions for manipulating PDFs
 
-# Available functions
+## Available functions
 
-## Merging
+### Merging
 Merges two PDFs together, one after the other
 
-## Trimming
+### Trimming
 Removes selected pages from a PDF
 
-## Moving
+### Moving
 Moves selected pages inside a PDF
 
-## Rotating
+### Rotating
 Rotates selected pages at +90, -90 and 180 degrees
 
-# Packages used
+## Packages used
 This program, written in python 3.8, uses the following packages:
 PySimpleGUI for the user interface
 PyPDF2 for manipulating PDFs
