@@ -1,5 +1,5 @@
 # pdfApp
-A small app with basic functions for manipulating PDFs
+I was annoyed at adobe acrobat for its lack of free features, so I coded this small app with basic functions for manipulating PDFs.  
 
 ## Available functions
 
